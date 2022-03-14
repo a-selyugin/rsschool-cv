@@ -4,7 +4,7 @@
 * telephone +79650386145
 * Telegram: @showmeartem
 * github: @a-selyugin
-* Linkedin
+* [Linkedin](https://www.linkedin.com/in/artem-selyuigin-61a824142/)
 
 ## About me:
 For the last 3 years I've been working as a Product Manager in company producing HW/SW solutions for marine automation. Being responsible for product design made me understand that I'm an adherent of pixel-perfect execution of technical tasks. Also I took over company internal website designed for automatic generation of technical documentation as a side project. This made me understand that I want to continue my career as a web developer.
