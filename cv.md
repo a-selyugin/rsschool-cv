@@ -1,10 +1,10 @@
 # Artem Selyugin
-## contacts:
-* e-mail: selyuginai@gmail.com
-* telephone +79650386145
+## Contacts:
+* E-mail: selyuginai@gmail.com
+* Telephone +79650386145
 * Telegram: @showmeartem
-* github: @a-selyugin
-* [Linkedin](https://www.linkedin.com/in/artem-selyuigin-61a824142/)
+* Github: @a-selyugin
+* [LinkedIn](https://www.linkedin.com/in/artem-selyuigin-61a824142/)
 
 ## About me:
 For the last 3 years I've been working as a Product Manager in company producing HW/SW solutions for marine automation. Being responsible for product design made me understand that I'm an adherent of pixel-perfect execution of technical tasks. Also I took over company internal website designed for automatic generation of technical documentation as a side project. This made me understand that I want to continue my career as a web developer.
@@ -30,4 +30,4 @@ ITMO University, Automation and Control
 
 ## Languages: 
 * Russian - Native
-* English - Somewhere between C1 and C2 according to [EFSET](https://www.efset.org/quick-check/) (use speaking and writing for everyday work routines)
+* English - Somewhere between C1 and C2 according to [EFSET](https://www.efset.org/quick-check/) (use English for everyday work routines)
