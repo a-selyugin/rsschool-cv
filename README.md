@@ -1,1 +1,1 @@
-# rsschool-cv
+https://a-selyugin.github.io/rsschool-cv/
